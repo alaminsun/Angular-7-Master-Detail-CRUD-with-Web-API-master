@@ -1,0 +1,206 @@
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\ApplicationInsights.config
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\WebAPI.dll.config
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\WebAPI.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\WebAPI.pdb
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\csc.exe
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\csc.rsp
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\csi.exe
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\csi.rsp
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\vbc.exe
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\EntityFramework.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AI.Web.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Http.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Razor.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\WebGrease.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\EntityFramework.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Http.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Razor.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.AI.Web.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Cors.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+F:\profession\CodAffection\Angular 7\Web API Master Detail CRUD\project\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\ApplicationInsights.config
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\WebAPI.dll.config
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\WebAPI.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\WebAPI.pdb
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\csc.exe
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\csc.rsp
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\csi.exe
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\csi.rsp
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\vbc.exe
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\EntityFramework.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AI.Web.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Cors.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Http.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Razor.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\WebGrease.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\EntityFramework.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Http.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.Razor.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.AI.Web.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+G:\Project\Angular-7-Master-Detail-CRUD-with-Web-API-master\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
